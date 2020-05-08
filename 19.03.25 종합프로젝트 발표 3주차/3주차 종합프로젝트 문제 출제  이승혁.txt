@@ -1,0 +1,4 @@
+기본적인 룰 기반의 에이전트로, 최소한의 base line을 제공하는 에이전트는 ?
+1. Hunam Agent 2.Base Agent 3.TD Agent
+
+ - 정답 : 2. Base Agent - 출제자 이승혁
