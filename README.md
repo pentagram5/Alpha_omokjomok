@@ -25,9 +25,18 @@ State가 충분히 작고 Agent의 학습 부담을 덜기위해 착수된 돌�
 돌이 3개 혹은 4개 이상일 경우 특정 Array 좌표에 돌을 둘수 있도록  
 유리한 환경에 따라 차등적으로 조건을 선택하도록 구현
 
-##
+
 ## Reinforcement Learning AI Agent vs Rule-based AI Agent
+![8x8 RL vs Rule](https://user-images.githubusercontent.com/63779100/106122253-d7022800-619b-11eb-92bb-4bd5d98f4de2.gif)
+
+## RL AI agent 성능평가
+![최종결과](https://user-images.githubusercontent.com/63779100/106122489-1c265a00-619c-11eb-8b55-9f9c394604ac.JPG)  
+RL(Reinforcement Learning) AI Agent는 MCTS 알고리즘을 기반으로  
+자가대국(Agent vs Agent)을 통해 Policy-value network를 형성,  
+자가대국 횟수별 Model를 차등적으로 저장 후, 벤치마킹 대상인 Rule 기반 Agent와의 대국을 통해 성능평가
+
 ## 2019-A05 알파 오목조목 종합프로젝트 팀원 역할
+
 
 ![팀원역할분담](https://user-images.githubusercontent.com/63779100/106121168-9950cf80-619a-11eb-9179-00f7f88a66ac.JPG)
 
