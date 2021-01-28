@@ -34,7 +34,7 @@ State가 충분히 작고 Agent의 학습 부담을 덜기위해 착수된 돌�
 
 
 ## RL AI agent 성능평가
-![최종결과](https://user-images.githubusercontent.com/63779100/106122489-1c265a00-619c-11eb-8b55-9f9c394604ac.JPG)  
+<img width="800" src="https://user-images.githubusercontent.com/63779100/106122489-1c265a00-619c-11eb-8b55-9f9c394604ac.JPG">
 RL(Reinforcement Learning) AI Agent는 MCTS 알고리즘을 기반으로  
 자가대국(Agent vs Agent)을 통해 Policy-value network를 형성,  
 자가대국 횟수별 Model를 차등적으로 저장 후, 벤치마킹 대상인 Rule 기반 Agent와의 대국을 통해 성능평가
