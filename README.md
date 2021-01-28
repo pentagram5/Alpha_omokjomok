@@ -31,7 +31,8 @@ State가 충분히 작고 Agent의 학습 부담을 덜기위해 착수된 돌�
 ## Reinforcement Learning AI Agent vs Rule-based AI Agent
 
 ![8x8 RL vs Rule](https://user-images.githubusercontent.com/63779100/106122253-d7022800-619b-11eb-92bb-4bd5d98f4de2.gif)
-
+강화학습 기반 Agent와 Rule-based Agent간의 대국  
+각 대국별 현재 State와 RL Agent의 Policy-value network를 통해 가중치 
 
 ## RL AI agent 성능평가
 <img width="800" src="https://user-images.githubusercontent.com/63779100/106122489-1c265a00-619c-11eb-8b55-9f9c394604ac.JPG">  
