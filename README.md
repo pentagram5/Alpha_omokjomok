@@ -3,12 +3,14 @@
 #### * 팀원 : 201301256 김상우 201301264 김준연 201401443 이승혁 201301307 한대호   
 #### * Alpha_Omokjomok은 강화학습 및 Rule 기반 인공지능 오목 대국프로그램입니다.
 #### * Google Deepmind 사의 Alpha-zero를 기반으로 하여 Policy-value Network 및 MCTS 알고리즘 적용
+
 # Requirements 및 개발환경
 개발언어 : Python==3.6.10  
 딥러닝/머신러닝 프레임워크 : torch,torchvision -> https://pytorch.org/ , tensorflow==2.1.0  , numpy  
 게임환경 구현용 UI 라이브러리 : Pygame  
 통합개발환경 ide : Pycharm  
 OS : Ubuntu 18.04  
+H/W GPU : Geforce GTX 1660 ti
 
 # Alpha_Omokjomok State & Pygame UI
 ![오목 최종화면](https://user-images.githubusercontent.com/63779100/106120190-6bb75680-6199-11eb-8bc5-3454209b4a22.JPG)  
@@ -38,9 +40,9 @@ RL(Reinforcement Learning) AI Agent는 MCTS 알고리즘을 기반으로
 자가대국 횟수별 Model를 차등적으로 저장 후, 벤치마킹 대상인 Rule 기반 Agent와의 대국을 통해 성능평가
 
 ## 2019-A05 알파 오목조목 종합프로젝트 팀원 역할
-
-
 ![팀원역할분담](https://user-images.githubusercontent.com/63779100/106121168-9950cf80-619a-11eb-9179-00f7f88a66ac.JPG)
+
+
 
 
 AlphaGo Omok Version 
