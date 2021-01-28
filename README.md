@@ -15,13 +15,15 @@ OS : Ubuntu 18.04
 기존 15x15의 2차원 배열로 AI를 구현해보고자 하였으나, 프로젝트 진행 중 개발환경과 H/W의 성능부족으로 8X8의 State로 환경 구축
 
 ## Omok 규칙
-기존의 오목 대회나 정규 시합에서 적용되는 금수(금지된 수)에 대해 적용하기에는 State가 충분히 작고 Agent의 학습 부담을 덜기위해  
-착수된 돌이 5개가 연이어서 직선 혹은 대각선으로 연결시 해당 돌의 승리로 구현하였습니다. 
+기존의 오목 대회나 정규 시합에서 적용되는 금수(금지된 수)에 대해 적용하기에는  
+State가 충분히 작고 Agent의 학습 부담을 덜기위해 착수된 돌이 5개가 연이어서   
+직선 혹은 대각선으로 연결시 해당 돌의 승리로 구현하였습니다. 
 
 ## Rule-based AI Agent 구축 
 ![Rulebased](https://user-images.githubusercontent.com/63779100/106120767-221b3b80-619a-11eb-99fd-6c7bb4211d27.gif)
 코드 기반으로 작용하는 Rule-based AI agent 15x15 state 구현화면입니다.  
-돌이 3개 혹은 4개 이상일 경우 특정 Array 좌표에 돌을 둘수 있도록 유리한 환경에 따라 차등적으로 조건을 선택하도록 구현
+돌이 3개 혹은 4개 이상일 경우 특정 Array 좌표에 돌을 둘수 있도록  
+유리한 환경에 따라 차등적으로 조건을 선택하도록 구현
 
 ##
 ## Reinforcement Learning AI Agent vs Rule-based AI Agent
