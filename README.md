@@ -19,7 +19,7 @@ H/W GPU : Geforce GTX 1660 ti
 ## Omok 규칙
 기존의 오목 대회나 정규 시합에서 적용되는 금수(금지된 수)에 대해 적용하기에는  
 State가 충분히 작고 Agent의 학습 부담을 덜기위해 착수된 돌이 5개가 연이어서   
-직선 혹은 대각선으로 연결시 해당 돌의 승리로 구현하였습니다. 
+직선 혹은 대각선으로 연결시 해당 돌의 승리로 구현
 
 ## Rule-based AI Agent 구축 
 ![Rulebased](https://user-images.githubusercontent.com/63779100/106120767-221b3b80-619a-11eb-99fd-6c7bb4211d27.gif)  
