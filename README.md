@@ -10,7 +10,7 @@
 통합개발환경 ide : Pycharm  
 OS : Ubuntu 18.04  
 
-# Omok game State & Pygame UI
+#  Alpha_Omokjomok State & Pygame UI
 ![오목 최종화면](https://user-images.githubusercontent.com/63779100/106120190-6bb75680-6199-11eb-8bc5-3454209b4a22.JPG)  
 기존 15x15의 2차원 배열로 AI를 구현해보고자 하였으나, 프로젝트 진행 중 개발환경과 H/W의 성능부족으로 8X8의 State로 환경 구축
 
