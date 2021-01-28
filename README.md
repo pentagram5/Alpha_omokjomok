@@ -35,7 +35,7 @@ State가 충분히 작고 Agent의 학습 부담을 덜기위해 착수된 돌�
 각 대국별 현재 State와 RL Agent의 Policy-value network를 통해 현재 State에 대한 가중치 확인
 
 ## RL AI agent 성능평가
-<img width="800" src="https://user-images.githubusercontent.com/63779100/106122489-1c265a00-619c-11eb-8b55-9f9c394604ac.JPG">  
+<img width="600" src="https://user-images.githubusercontent.com/63779100/106122489-1c265a00-619c-11eb-8b55-9f9c394604ac.JPG">  
   
 RL(Reinforcement Learning) AI Agent는 MCTS 알고리즘을 기반으로  
 자가대국(Agent vs Agent)을 통해 Policy-value network를 형성,  
