@@ -27,7 +27,7 @@ State가 충분히 작고 Agent의 학습 부담을 덜기위해 착수된 돌�
 
 ##
 ## Reinforcement Learning AI Agent vs Rule-based AI Agent
-## Teamone's project role 종합프로젝트 팀원 역할분담 
+## 2019-A05 알파 오목조목 종합프로젝트 팀원 역할
 
 ![팀원역할분담](https://user-images.githubusercontent.com/63779100/106121168-9950cf80-619a-11eb-9179-00f7f88a66ac.JPG)
 
