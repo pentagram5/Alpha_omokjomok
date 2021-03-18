@@ -1,3 +1,9 @@
+[![Generic badge](https://img.shields.io/badge/OS-Ubuntu18.04-purple.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/IDE-PyCharm-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Language-Python-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Library-Tensorflow,PyTorch,Numpy-orange.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Interface-PyGame-yellow.svg)](https://shields.io/)
+
 # Alpha_Omokjomok - 인공지능 오목 대국프로그램
 #### * 2019년 한서대학교 항공 소프트웨어 공학과 2019-A5 프로젝트 
 #### * 팀원 : 201301256 김상우 201301264 김준연 201401443 이승혁 201301307 한대호   
