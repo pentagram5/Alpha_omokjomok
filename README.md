@@ -2,7 +2,7 @@
 [![Generic badge](https://img.shields.io/badge/IDE-PyCharm-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Language-Python-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Library-Tensorflow,PyTorch,Numpy-orange.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Interface-PyGame-yellow.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/UI--editor-PyGame-yellow.svg)](https://shields.io/)
 
 # Alpha_Omokjomok - 인공지능 오목 대국프로그램
 #### * 2019년 한서대학교 항공 소프트웨어 공학과 2019-A5 프로젝트 
